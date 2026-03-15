@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/logo.png" alt="ManejoApp Logo" width="120" />
+<img src="./public/logo2.png" alt="ManejoApp Logo" width="120" />
 
 ManejoApp 📊
 
