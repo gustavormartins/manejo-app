@@ -48,7 +48,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 const db = getFirestore(app);
-const appId = typeof __app_id !== 'undefined' ? __app_id : 'meu-gerenciador-local';
+const appId = 'manejo-app';
 
 const CATEGORIES = [
   { id: 'essencial', name: 'Essencial (Casa, Mercado)', color: '#3b82f6' },
